@@ -1,4 +1,5 @@
-hello-py
+# KL Divergence Feature Drift Detector
+
 ===
 
 Setup instructions:
